@@ -1,3 +1,0 @@
-git add .
-git commit -m "Add app code and GitHub Actions workflow"
-git push origin main
